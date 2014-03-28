@@ -1,4 +1,6 @@
-README.md
+Demo : http://jsfiddle.net/tmS3V/171/ 
+
+[Quiet Possible the Link may not work! Its a fiddle]
 
 Disclaimer: Well this project is not technically a js file that you can include on your pages but just a snippet that can be used for formating phone numbers and hence the name!
 
